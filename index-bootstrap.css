@@ -1,0 +1,40 @@
+:root {
+    --button-background-color: #4044ee;
+    --link-nav-color: #7476e6;
+    --color-headings: black;
+    --bg-grey: grey;
+    --button-color: white;
+    --arror: rgb(255, 255, 255);
+    
+}
+
+.logo {
+    width: 47px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 24px;
+    color: rgb(11, 15, 25);
+    vertical-align: middle;
+}
+
+ .active {
+    color: #7476e6!important;
+ }
+
+ .nav-link {
+    font-weight: 600!important;
+  
+ }
+
+ .nav-link:hover {
+    color: #7476e6!important; 
+ }
+
+ img {
+    max-width: 100%;
+    height: auto;
+ }
+
+ .btn-height {
+    height: 50px;
+ }
